@@ -1,2 +1,2 @@
 # weatherApp
-simple weather app project
+Live-preview: https://weatherapp.sebastianwegner.com/
